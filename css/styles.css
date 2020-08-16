@@ -29,7 +29,7 @@ body {
 	box-align: center;
 	border: solid black;
 	border-width: 1px;
-	background-color: bluemargin-bottom: 10px;
+	background-color: bluemargin-bottom;
 }
 .box2 {
 	margin: 12px;
