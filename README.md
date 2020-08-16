@@ -1,4 +1,4 @@
-# Portfolio-landing-page
+# W1-Friday-portfolio
 
 ### By Andrew Macauley
 
@@ -13,6 +13,7 @@ A week one final project showing the use of CSS, HTML, Readme.  Using p, h,ul, o
 2. add CCS Styles
 3. Add README
 4. Add Repository
+Go to Github and copy link below to get access
 Git hub Link https://github.com/Drewmacauley/W1-Fiday-project.git
 
 ## Installation
