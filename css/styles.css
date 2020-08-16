@@ -35,3 +35,6 @@ body {
 	margin: 12px;
 	border: solid black
 }
+img {
+  float: center;
+}
