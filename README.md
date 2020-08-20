@@ -10,7 +10,7 @@ A week one final project showing the use of CSS, HTML, Readme.  Using p, h, ul, 
 
 ## Program setop Instructions
 1. Go to Github and copy link below 
-Git hub Link https://github.com/Drewmacauley/W1-Fiday-project.git
+Git hub pages https://drewmacauley.github.io/W1-Friday-project/
 2. Clone link in VScode
 3. click open file
 4. Drag index.html into a browser tab to view
