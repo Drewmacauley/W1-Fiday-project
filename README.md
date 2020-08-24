@@ -8,14 +8,14 @@
 # Description
 A week one final project showing the use of CSS, HTML, Readme.  Using p, h, ul, ol, li, em, strong, a, img, div, & span
 
-## Program setop Instructions
-1. Go to Github and copy link below 
-Git hub pages https://drewmacauley.github.io/W1-Friday-project/
-2. Clone link in VScode
-3. click open file
+## Program Setup Instructions
+1. Go to Github and copy this repository link: https://github.com/Drewmacauley/W1-Friday-project.git
+2. Use repository link to Clone in VScode
+3. Click open file
 4. Drag index.html into a browser tab to view
+5. To view this website in your browser without cloning the respository go to: Git hub pages https://drewmacauley.github.io/W1-Friday-project/
 
-## Technologys uses
+## Technologies Used
 CSS, HTML, Readme. p, h, ul, ol, li, em, strong, a, img, div, & span
 
 ## Installation
